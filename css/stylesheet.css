@@ -20,6 +20,9 @@ body {
  input:-moz-placeholder {
    text-align:left;
  }
+ .captions {
+   display: none;
+ }
 
 /*
 ===================================

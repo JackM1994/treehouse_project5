@@ -1,10 +1,16 @@
+$(document).ready(function(){
+    $("#search").hideseek({
+        highlight:true
+    });
+});
+    
+
+
 
 $(document).ready(function() {
     $("#lightgallery").lightGallery(); 
 });
 
-$(document).ready(function(){
-    $('.search-bar').hideseek();
-});
+;
     
     
